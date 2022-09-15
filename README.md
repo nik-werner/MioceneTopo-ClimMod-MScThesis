@@ -13,7 +13,7 @@ The Miocene (23.02 - 5.33 Ma) was a period during the Cenocoic relatively warmer
 ### Rationale
 In this thesis I will use the EC-Earth3 ESM with a dynamic vegetation component to model the african climate during the Miocene. Based on dyanmic topography of the African superswell modelled by Moucha and Forte (2011) I change the african topography accordingly to use it as boundary condition for the ESM. I will analyize the output in terms of circulation patterns and moisture transport and try to interprete the resulting vegetation and perhaps thereby faunal changes in this light. I will also take into account the uplift of the Tibetan Plateau, initializing the indian summer monsoon and perhaps draging moisture away from East Africa, changing the local climate. I will also try to estimate in how far the Miocene can be used as a future analog, due to topographic changes.
 
-![Changing african topography during the Miocene, based on Moucha and Forte (2011)](/home/niklaswerner/Desktop/topo_update_20220914.png)
+![Changing african topography during the Miocene, based on Moucha and Forte (2011)]!(1_Topography_MouchaForte/topo_update_20220914.png)
 
 #### References
 Moucha, R., & Forte, A. M. (2011). Changes in African topography driven by mantle convection. Nature Geoscience, 4(10), 707-712.
